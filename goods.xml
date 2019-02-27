@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<goods>
+    <product>
+        <name>Samsung</name>
+        <category>smartphone</category>
+        <count>53</count>
+        <price>6499</price>
+    </product>
+    <product>
+        <name>Huawei P20</name>
+        <category>smartphone</category>
+        <count>11</count>
+        <price>15999</price>
+    </product>
+    <product>
+        <name>Xiaomi Redmi Note 5</name>
+        <category>smartphone</category>
+        <count>6</count>
+        <price>4699</price>
+    </product>
+    <product>
+        <name>Nikon D5600</name>
+        <category>photocamera</category>
+        <count>3</count>
+        <price>24499</price>
+    </product>
+    <product>
+        <name>Canon EOS 77D</name>
+        <category>photocamera</category>
+        <count>4</count>
+        <price>19699</price>
+    </product>
+    <product>
+        <name>Nikon D810</name>
+        <category>photocamera</category>
+        <count>1</count>
+        <price>69999</price>
+    </product>        
+    <product>
+        <name>Samsung UE43N5000AUXUA</name>
+        <category>TV</category>
+        <count>8</count>
+        <price>9999</price>
+    </product>
+    <product>
+        <name>LG 43LK6200PLD</name>
+        <category>TV</category>
+        <count>12</count>
+        <price>15299</price>
+    </product>
+    <product>
+        <name>Ergo LE43CU6550AK</name>
+        <category>TV</category>
+        <count>34</count>
+        <price>9499</price>
+    </product>
+    <product>
+        <name>BOSCH WAB 20262 UA</name>
+        <category>washing_machine</category>
+        <count>4</count>
+        <price>8999</price>
+    </product>    
+</goods>
