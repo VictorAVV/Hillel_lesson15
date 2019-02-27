@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <track>
+    <path>song1.mp3</path>
+    <title>Track1 -Track Title</title>
+  </track>
+  <track>
+    <path>song2.mp3</path>
+    <title>Track2 -Track Title</title>
+  </track>
+  <track>
+    <path>song3.mp3</path>
+    <title>Track3 -Track Title</title>
+  </track>
+</xml>
